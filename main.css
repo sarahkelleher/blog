@@ -3,11 +3,16 @@ div {
 }
 
 #dayOne {
-	background-color: red;
+	background-color: pink;
 	width: 50%;
 }
 
 #dayTwo {
-	background-color: blue;
-	width: 75%;
+	background-color: pink;
+	width: 30%;
+	margin: center;
+}
+h1{
+	background-color: white;
+	margin: center;
 }
