@@ -1,13 +1,11 @@
 div {
-	color: white;
+	color: #34456;
 }
-
-#dayOne {
+#theJournalBegins {
 	background-color: pink;
 	width: 50%;
 }
-
-#dayTwo {
+#twoDaysIn {
 	background-color: pink;
 	width: 30%;
 	margin: center;
