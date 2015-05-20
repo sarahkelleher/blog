@@ -1,13 +1,13 @@
 div {
-	color: white;
+	color: #34456;
 }
 
-#paragraphtwo {
-	background-color: red;
+#paragraph two {
+	background-color: white;
 	width: 50%;
 }
 
-#paragraphone {
+#paragraph one {
 	background-color: blue;
 	width: 75%;
 }
