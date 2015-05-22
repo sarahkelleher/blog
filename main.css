@@ -1,11 +1,12 @@
-html {
-	background-color: color: #344a56;
+body {
+	background-color: color: #fff459339;
 }
 ul {
 	list-style-type: none;
 	margin: 0;
 	padding: right;
 	text-align: right;
+	display: inline-block;
 }
 
 a {
